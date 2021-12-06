@@ -1,0 +1,10 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#top-banner {
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+}
